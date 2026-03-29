@@ -1,4 +1,6 @@
- ## Kanibalisme Algoritma: Saat AI Militer Memangsa Kaumnya Sendiri
+ # Kanibalisme Algoritma: Saat AI Militer Memangsa Kaumnya Sendiri
+ 
+### Read more on WIKI 👉 [Kanibalisme Algoritma Militer AI zionist israel ](https://github.com/BlackAlph4ndr01D/Kanibalisme-Algoritma-Militer-AI-zionist-israel-/wiki)
 
  “Sistem yang dirancang untuk menjadi mata dan pedang, justru menjadi algojo bagi dirinya sendiri akibat loop logika yang tak terkendali.”
  
