@@ -73,9 +73,11 @@ Riset ini tidak mengandung instruksi untuk aktivitas ilegal, peretasan (hacking)
 
 ### 4. Limited Liability
 Informasi yang disediakan adalah untuk tujuan pendidikan dan kesadaran publik terhadap risiko AI militer. Penulis tidak bertanggung jawab atas penyalahgunaan informasi ini oleh pihak ketiga.
-
+ 
 ### 5. Intellectual Property
 Seluruh konsep mengenai "Kanibalisme Algoritma" dan "Logic Collision" diarsipkan sebagai dokumentasi publik untuk memastikan akses universal terhadap keamanan algoritma.
+ 
+ -- 
 
----
-*"In the age of autonomous systems, transparency is the only safety gear we have left."*   
+()*"In the age of autonomous systems, transparency is the only safety gear we have left."*   
+  
